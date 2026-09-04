@@ -1,0 +1,12 @@
+export const mnemonicsBank = [
+  { id: 'mn1', subject: 'Medicine', title: 'Heart Failure Treatment', mnemonic: 'ABCD-EF', expansion: 'ARNI/ACEi, Beta-blocker, Calcium (avoid), Diuretics, MRA (Spironolactone), Dapagliflozin, Education, Follow-up', description: 'Four pillars of HFrEF therapy and supportive care' },
+  { id: 'mn2', subject: 'Medicine', title: 'MI Management', mnemonic: 'MONA-B', expansion: 'Morphine, Oxygen, Nitrates, Aspirin, Beta-blocker', description: 'Initial management of acute MI' },
+  { id: 'mn3', subject: 'Medicine', title: 'Stroke Recognition', mnemonic: 'BE-FAST', expansion: 'Balance, Eyes, Face, Arms, Speech, Time', description: 'Early signs of acute stroke' },
+  { id: 'mn4', subject: 'Medicine', title: 'TB Drugs Side Effects', mnemonic: 'RIPE', expansion: 'R-Rifampicin (orange fluids), I-Isoniazid (neuropathy/hepatitis), P-Pyrazinamide (gout/hyperuricemia), E-Ethambutol (optic neuritis)', description: 'First-line anti-tubercular drug adverse effects' },
+  { id: 'mn5', subject: 'Surgery', title: 'Alvarado Score for Appendicitis', mnemonic: 'MANTRELS', expansion: 'Migration, Anorexia, Nausea, Tenderness RIF, Rebound, Elevated temp, Leukocytosis, Shift of WBC to left', description: '10-point diagnostic score for acute appendicitis' },
+  { id: 'mn6', subject: 'Surgery', title: 'Inguinal Hernia Relation', mnemonic: "MDs don't Lie", expansion: 'Medial = Direct, Lateral = Indirect', description: 'Anatomic relationship of hernia sac to inferior epigastric artery' },
+  { id: 'mn7', subject: 'OBG', title: 'PPH Etiologies', mnemonic: '4 Ts', expansion: 'Tone (uterine atony), Trauma (lacerations), Tissue (retained placenta), Thrombin (coagulopathies)', description: 'Four main causes of postpartum hemorrhage' },
+  { id: 'mn8', subject: 'Pediatrics', title: 'APGAR Score', mnemonic: 'APGAR', expansion: 'Appearance (color), Pulse (heart rate), Grimace (reflex), Activity (muscle tone), Respiration (effort)', description: 'Newborn evaluation at 1 and 5 minutes' },
+  { id: 'mn9', subject: 'Dermatology', title: 'Melanoma Warning Signs', mnemonic: 'ABCDE', expansion: 'Asymmetry, Border irregularity, Color variegation, Diameter >6mm, Evolution over time', description: 'Early detection criteria for malignant melanoma' },
+  { id: 'mn10', subject: 'Orthopedics', title: 'Carpal Bones Sequence', mnemonic: "Some Lovers Try Positions That They Can't Handle", expansion: 'Scaphoid, Lunate, Triquetrum, Pisiform, Trapezium, Trapezoid, Capitate, Hamate', description: 'Carpal bones lateral to medial, proximal to distal row' }
+]
