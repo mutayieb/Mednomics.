@@ -10,7 +10,7 @@ import ClinicalSkills from './components/ClinicalSkills'
 import Mnemonics from './components/Mnemonics'
 import PYQs from './components/PYQs'
 import StudyPlanner from './components/StudyPlanner'
-import VideoHub from './components/VideoHub'
+import VideoSection from './components/VideoSection'
 import Notes from './components/Notes'
 import Community from './components/Community'
 import Resources from './components/Resources'
@@ -88,7 +88,7 @@ function App() {
         <Mnemonics />
         <PYQs />
         <StudyPlanner />
-        <VideoHub />
+        <VideoSection />
         <Notes />
         <Community />
         <Resources />
